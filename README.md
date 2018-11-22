@@ -1,0 +1,2 @@
+# MyLog
+Just some words
